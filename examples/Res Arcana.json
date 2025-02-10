@@ -20,7 +20,7 @@
       "numberOfDice": 1,
       "rollDiceCustomValues": [],
       "useCustomDiceValues": false,
-      "useFunnyName": false,
+      "useFunnyName": true,
       "funnyName": "Communist",
       "previousUseFunnyName": true
     },
@@ -44,7 +44,7 @@
       "numberOfDice": 1,
       "rollDiceCustomValues": [],
       "useCustomDiceValues": false,
-      "useFunnyName": false,
+      "useFunnyName": true,
       "funnyName": "Weed",
       "previousUseFunnyName": true
     },
@@ -68,7 +68,7 @@
       "numberOfDice": 1,
       "rollDiceCustomValues": [],
       "useCustomDiceValues": false,
-      "useFunnyName": false,
+      "useFunnyName": true,
       "funnyName": "Not Calm",
       "previousUseFunnyName": true
     },
@@ -92,7 +92,7 @@
       "numberOfDice": 1,
       "rollDiceCustomValues": [],
       "useCustomDiceValues": false,
-      "useFunnyName": false,
+      "useFunnyName": true,
       "funnyName": "UnLife",
       "previousUseFunnyName": true
     },
@@ -116,24 +116,9 @@
       "numberOfDice": 1,
       "rollDiceCustomValues": [],
       "useCustomDiceValues": false,
-      "useFunnyName": false,
+      "useFunnyName": true,
       "funnyName": "Winning Stone",
       "previousUseFunnyName": true
     }
-  ],
-  "globalConfig": {
-    "showSettingsGlobal": false,
-    "hideAllExceptResources": false,
-    "disableAllAnimations": false,
-    "globalCounterLimit": 10,
-    "enableGlobalCounterLimit": false,
-    "globalHideFunnyNames": true,
-    "previousFunnyNameStates": {
-      "0": true,
-      "1": true,
-      "2": true,
-      "3": true,
-      "4": true
-    }
-  }
+  ]
 }
